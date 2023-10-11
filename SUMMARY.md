@@ -1,13 +1,16 @@
 # Table of contents
 
-* [🖌 O You](README.md)
+* [🖌 O You Who](README.md)
 
-## INTRODUCTION
+## Mainmatter
 
-* [Surah Al-B](introduction/surah-al-b.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+* [Surah Al-B](mainmatter/surah-al-b/README.md)
+  * [Ayat 104](mainmatter/surah-al-b/ayat-104/README.md)
+    * [Causes of](mainmatter/surah-al-b/ayat-104/causes-of.md)
+  * [Ayat 153](mainmatter/surah-al-b/ayat-153.md)
+* [Brand Guidelines](mainmatter/brand-guidelines.md)
+* [How updates work](mainmatter/how-updates-work.md)
+* [Accessibility](mainmatter/accessibility.md)
 
 ## identity
 
