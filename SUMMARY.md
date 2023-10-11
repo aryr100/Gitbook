@@ -12,15 +12,15 @@
 * [How updates work](mainmatter/how-updates-work.md)
 * [Accessibility](mainmatter/accessibility.md)
 
-## identity
+## Frontmatter
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [Logos](frontmatter/logos.md)
+* [Colors](frontmatter/colors.md)
+* [Typography](frontmatter/typography.md)
+* [Imagery](frontmatter/imagery.md)
 
-## Components
+## Backmatter
 
-* [Icons](components/icons.md)
-* [Buttons](components/buttons.md)
-* [Inputs](components/inputs.md)
+* [Icons](backmatter/icons.md)
+* [Buttons](backmatter/buttons.md)
+* [Inputs](backmatter/inputs.md)
