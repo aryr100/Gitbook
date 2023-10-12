@@ -15,7 +15,10 @@
     * [Causes of Revelation](mainmatter/surah-al-b/ayat-153/causes-of-revelation/README.md)
       * [Al-Suy](mainmatter/surah-al-b/ayat-153/causes-of-revelation/al-suy.md)
       * [Al-Jal](mainmatter/surah-al-b/ayat-153/causes-of-revelation/al-jal.md)
-* [Surah Ali-Imran](mainmatter/brand-guidelines.md)
+* [Surah Ali-Imran](mainmatter/brand-guidelines/README.md)
+  * [Ayat](mainmatter/brand-guidelines/ayat/README.md)
+    * [Causes of Revelation](mainmatter/brand-guidelines/ayat/causes-of-revelation/README.md)
+      * [Al-Suy](mainmatter/brand-guidelines/ayat/causes-of-revelation/al-suy.md)
 * [How updates work](mainmatter/how-updates-work.md)
 * [Accessibility](mainmatter/accessibility.md)
 
