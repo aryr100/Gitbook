@@ -1,4 +1,4 @@
-# Accessibility
+# Ayat
 
 {% hint style="info" %}
 **Good to know:** Accessible design lets people of all abilities interact with, understand, and navigate our products.
