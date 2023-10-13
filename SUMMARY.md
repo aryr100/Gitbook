@@ -2,8 +2,46 @@
 
 * [Preface](README.md)
 
-## Surah Al-Baq
+# Part {Surah-1/README.md} 
 
-* [Surah](surah-al-baq/surah/README.md)
-  * [Ayat](surah-al-baq/surah/ayat/README.md)
-    * [Causes of Revelation](surah-al-baq/surah/ayat/causes-of-revelation.md)
+## Chapter 1
+
+### Introduction
+
+### Background
+
+### Methods
+
+### Results
+
+## Chapter 2
+
+### Introduction
+
+### Background
+
+### Methods
+
+### Results
+
+# Part 2
+
+## Chapter 1
+
+### Introduction
+
+### Background
+
+### Methods
+
+### Results
+
+## Chapter 2
+
+### Introduction
+
+### Background
+
+### Methods
+
+### Results
