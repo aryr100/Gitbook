@@ -1,2 +1,0 @@
-# Surah Al-Baq
-

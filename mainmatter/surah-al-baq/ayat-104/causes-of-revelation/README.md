@@ -1,2 +1,0 @@
-# Causes of Revelation
-
