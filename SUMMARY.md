@@ -4,7 +4,7 @@
 
 ## Surah Al-Baqarah
 
-* [Ayat-104](surah/ayat104.md)
+* [Ayat-104](surah-2/ayat104.md)
 * [Design Principles](introduction/design-principles.md)
 * [Brand Guidelines](introduction/brand-guidelines.md)
 * [How updates work](introduction/how-updates-work.md)
