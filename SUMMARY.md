@@ -3,10 +3,11 @@
 * [🖌 Getting started](README.md)
 
 ## Surah
+* [Ayat-104](surah/ayat104.md)
 * [Design Principles](introduction/design-principles.md)
 * [Brand Guidelines](introduction/brand-guidelines.md)
 * [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+
 
 ## identity
 
