@@ -1,4 +1,9 @@
-# 🖌 Getting started
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+  # 🖌 Getting started
 
 ## Welcome !
 
